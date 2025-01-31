@@ -1,1 +1,1 @@
-# Basic Calc
+# It's a basic calculator
